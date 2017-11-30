@@ -1,0 +1,14 @@
+#Data/raw
+*.pyc
+R_Country_Wordcloud/df_countryAuthoringToCountryStudied.csv
+R_Country_Wordcloud/matrix_countryAuthoringToCountryStudied.csv
+LDA/cache
+LDA/output
+.Rproj.user
+
+
+.DS_Store
+.texpadtmp
+
+.Rhistory
+
